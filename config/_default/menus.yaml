@@ -1,0 +1,115 @@
+# Top menu for Carpentries & Lesson Programs
+top:
+  - name: AI Carpentry
+    url: /
+    weight: 30
+    params:
+      active: true 
+
+# Main menu
+main:
+# Main menu: About
+- identifier: about-us
+  name: About us
+  url: "/"
+  parent: null
+  weight: 10
+- identifier: ai-carpentry
+  name: AI Carpentry
+  url: /about-us/
+  parent: about-us
+  weight: 10
+- identifier: governance
+  name: Governance
+  pageRef: "/about-us/governance/"
+  parent: about-us
+  weight: 20
+- identifier: get-involved
+  name: Get Involved
+  pageRef: "/about-us/get-involved/"
+  parent: about-us
+  weight: 20
+# Learn Menu
+- identifier: workshops
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: workshops-upcoming
+  name: Upcoming Workshops
+  pageRef: "/workshops/workshops-upcoming/"
+  parent: workshops
+  weight: 10
+- identifier: workshops-past
+  name: Past Workshops
+  pageRef: "/workshops/workshops-past/"
+  parent: workshops
+  weight: 20
+# Lessons menu
+- identifier: lessons
+  name: Lessons
+  url: "/lessons/"
+  parent: null 
+  weight: 30
+
+footer:
+# Footer menu: Menu 1 (About us)
+- identifier: about-us-footer
+  name: About AI Carpentry
+  url: "/about-us/"
+  parent: null
+  weight: 10
+- identifier: get-involved
+  name: Get involved
+  url: "/about-us/get-involved/"
+  parent: about-us-footer
+  weight: 40
+# Footer menu: Menu 2 (Workshops)
+- identifier: workshops-footer
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 40
+- identifier: workshops-upcoming
+  name: Upcoming workshops
+  url: "/workshops/workshops-upcoming/"
+  parent: workshops-footer
+  weight: 20
+
+# socials:
+# - name: Mastodon
+#   url: "https://hachyderm.io/@thecarpentries"
+#   params:
+#     img: "/mastodon-logo.svg"
+#   weight: 10
+# - name: LinkedIn
+#   url: "https://www.linkedin.com/company/the-carpentries/"
+#   params:
+#     img: "/linkedin-logo.svg"
+#   weight: 20
+# - name: Slack
+#   url: "https://swc-slack-invite.herokuapp.com/"
+#   params:
+#     img: "/slack-logo.svg"
+#   weight: 30
+# - name: Github
+#   url: "https://github.com/carpentries"
+#   params:
+#     img: "/github-logo.svg"
+#   weight: 40
+# - name: Zenodo
+#   url: "https://zenodo.org/communities/carpentries/records"
+#   params:
+#     img: "/zenodo-logo.svg"
+#   weight: 50
+# - name: Youtube
+#   url: "https://www.youtube.com/thecarpentries"
+#   params:
+#     img: "/youtube-logo.svg"
+#   weight: 60
+# - name: Bluesky
+#   url: "https://bsky.app/profile/carpentries.carpentries.org"
+#   params:
+#     img: "/bluesky-logo.svg"
+#     weight: 70
+

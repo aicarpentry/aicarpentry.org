@@ -1,0 +1,31 @@
+{{ $all_lessons := site.Data.curriculum.curricula }}
+{{ $type := .Get "type" }}
+
+<table>
+    <!-- In time, we will want to add the missing columns back into these tables: Lesson, Site, Repository, Reference, Instructor Notes, Status, Maintainers-->
+<thead>
+<tr>
+<th>Lesson</th>
+<th>Site</th>
+<th>Repository</th>
+<th>Status</th>
+<!-- <th>Reference</th>
+<th>Instructor Notes</th>
+<th>Maintainers</th> -->
+</tr>
+</thead>
+<tbody>
+
+{{ range where $all_lessons "category" "eq" $type }}
+<tr>
+    <td>{{ .lessonname }}</td>
+    <td style="text-align: center;"><a href="{{ .site }}"><i class="fas fa-window-maximize"></i></a></td>
+    <td style="text-align: center;"><a href="{{ .repo }}"><i class="fab fa-github"></i></a></td>
+    <td>{{ .status }}</td>
+    <!-- <td style="text-align: center;"><a href="{{ .ref }}"><i class="fas fa-eye"></i></a></td>
+    <td style="text-align: center;"><a href="{{ .inst_notes }}"><i class="fas fa-plus"></i></a></td>
+    <td>{{ .maintainers }} </td> -->
+</tr>
+{{ end }}
+</tbody>
+</table>

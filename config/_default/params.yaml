@@ -1,0 +1,19 @@
+logo: aic_logo.svg
+logoAlt: AI Carpentry Logo
+logoFooter: aic_logo.svg
+logoFooterAlt: AI Carpentry Logo
+
+git_repo: https://github.com/ai-carpentry/ai-carpentry.org
+
+# Other websites
+dc-website: https://datacarpentry.org/
+swc-website:  https://software-carpentry.org/
+carpentries-website: https://carpentries.org/
+
+carpentries_workshops_page: https://carpentries.org/workshops/
+carpentries_handbook: https://docs.carpentries.org 
+
+footer_overview_text: AI Carpentry is an independent Community of Practice inspired by The Carpentries.
+
+# Donate 
+donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=librarycarpentry

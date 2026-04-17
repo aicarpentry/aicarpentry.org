@@ -1,0 +1,73 @@
+curricula:
+
+- lessonname: Developer Workshop Overview 
+  site: https://carpentries-incubator.github.io/ai-carpentry-dev-workshop/
+  repo: https://github.com/carpentries-incubator/ai-carpentry-dev-workshop/
+  status: "initial design phase"
+  category: dev
+
+- lessonname: Connecting Key Concepts in Machine Learning 
+  site: https://carpentries-incubator.github.io/ml-concepts/
+  repo: https://github.com/carpentries-incubator/ml-concepts/
+  status: "initial design phase"
+  category: dev
+
+- lessonname:  Preparing Data for Machine Learning
+  site: https://carpentries-incubator.github.io/ml-data-prep/
+  repo: https://github.com/carpentries-incubator/ml-data-prep/
+  status: "initial design phase"
+  category: dev
+
+- lessonname: Developing and Evaluating a Deep Learning Model 
+  site: https://carpentries-incubator.github.io/developing-evaluating-dl/
+  repo: https://github.com/carpentries-incubator/developing-evaluating-dl/
+  status: "initial design phase"
+  category: dev
+
+- lessonname: Learning Programming with GenAI Workshop Overview
+  site: https://carpentries-incubator.github.io/ai-carpentry-user-workshop-novice/
+  repo: https://github.com/carpentries-incubator/ai-carpentry-user-workshop-novice/
+  status: initial design phase
+  category: user-novice
+
+- lessonname: Exploring Large Language Models 
+  site: https://carpentries-incubator.github.io/llms-intro-novice/
+  repo: https://github.com/carpentries-incubator/llms-intro-novice/
+  status: initial design phase
+  category: user-novice
+
+- lessonname: Considering Implications of GenAI Use
+  site: https://carpentries-incubator.github.io/genai-implications-novice/
+  repo: https://github.com/carpentries-incubator/genai-implications-novice/
+  status: initial design phase
+  category: user-novice
+
+- lessonname: Learning Programming with GenAI
+  site: https://carpentries-incubator.github.io/coding-with-llms-novice/
+  repo: https://github.com/carpentries-incubator/coding-with-llms-novice/
+  status: initial design phase
+  category: user-novice
+
+- lessonname: Building and Validating Research Code with GenAI Workshop Overview
+  site: https://carpentries-incubator.github.io/ai-carpentry-user-workshop-cp/
+  repo: https://github.com/carpentries-incubator/ai-carpentry-user-workshop-cp/
+  status: initial design phase
+  category: user-comprac
+
+- lessonname: Exploring Large Language Models 
+  site: https://carpentries-incubator.github.io/llms-intro-cp/
+  repo: https://github.com/carpentries-incubator/llms-intro-cp/
+  status: initial design phase
+  category: user-comprac
+
+- lessonname: Considering Implications of GenAI Use
+  site: https://carpentries-incubator.github.io/genai-implications-cp/
+  repo: https://github.com/carpentries-incubator/genai-implications-cp/
+  status: initial design phase
+  category: user-comprac
+
+- lessonname: Developing Software with Generative AI
+  site: https://carpentries-incubator.github.io/software-development-with-genai/
+  repo: https://github.com/carpentries-incubator/software-development-with-genai/
+  status: initial design phase
+  category: user-comprac

@@ -1,0 +1,19 @@
+<div class="flex flex-wrap">
+  <div class="flex w-full mb-8 text-sm lg:w-auto lg:mb-0">
+    <div class="mr-10">&copy; {{ now.Year }} AI Carpentry</div>
+    <div class="mr-10"><a class="hover:underline" href="/privacy/">Privacy Policy</a></div>
+    <div class="mr-10"><a class="hover:underline" href="/license/">License</a></div>
+  </div>
+  <div class="flex flex-wrap items-center lg:justify-end w-full lg:flex-1 gap-x-6 [&>a>img]:relative hover:[&>a>img]:bottom-[3px]">
+    <span class="w-full mb-3 font-extrabold lg:w-auto md:mb-0 md:font-sm">Follow Us</span>
+    {{ range $item := site.Menus.socials }}
+      {{ if .URL}}
+        <a aria-label="{{ .Name }}" href="{{ .URL }}">
+          <img alt="{{ .Name }}" src="{{ .Params.Img }}">
+        </a>
+      {{ end }}
+    {{ end }}
+
+    <a class="px-4 py-2 mx-1 font-semibold border rounded-full text-gray-dark bg-offwhite hover:text-gray-dark hover:bg-golden hover:border-bg-golden" href="{{ .Site.Params.donate_url }}">Donate</a>
+  </div>
+</div>
