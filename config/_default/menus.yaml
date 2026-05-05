@@ -29,6 +29,17 @@ main:
   pageRef: "/about-us/get-involved/"
   parent: about-us
   weight: 20
+# Community menu
+- identifier: community
+  name: Community
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: community-calls
+  name: Community Calls
+  pageRef: "/community/"
+  parent: community
+  weight: 20
 # Learn Menu
 - identifier: workshops
   name: Workshops

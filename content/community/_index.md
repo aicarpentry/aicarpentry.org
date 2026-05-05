@@ -4,6 +4,7 @@ layout: single
 ---
 
 As an offshoot of [The Carpentries](https://carpentries.org/), the AI Carpentry community connects educators and domain experts from around the world.
+Community calls are subject to [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/).
 
 ## Lesson Development Coworking
 Several members of the community are developing curriculum for [our workshops](../../lessons/).
