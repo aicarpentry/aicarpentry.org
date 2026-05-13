@@ -4,6 +4,10 @@ date: 2023-01-01T08:00:00-07:00
 blocks:
 - layout: select-cta
   options:
+    - copy: Get involved
+      url: /community/get-involved/
+    - copy: Join a community call
+      url: /community/
     - copy: See upcoming workshops
       url: /workshops/workshops-upcoming/
     - copy: See the curriculum

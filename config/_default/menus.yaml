@@ -24,16 +24,16 @@ main:
   pageRef: "/about-us/governance/"
   parent: about-us
   weight: 20
-- identifier: get-involved
-  name: Get Involved
-  pageRef: "/about-us/get-involved/"
-  parent: about-us
-  weight: 20
 # Community menu
 - identifier: community
   name: Community
   url: "#"
   parent: null
+  weight: 20
+- identifier: get-involved
+  name: Get Involved
+  pageRef: "/community/get-involved/"
+  parent: community
   weight: 20
 - identifier: community-calls
   name: Community Calls
@@ -87,7 +87,7 @@ footer:
   parent: workshops-footer
   weight: 20
 
-# socials:
+socials:
 # - name: Mastodon
 #   url: "https://hachyderm.io/@thecarpentries"
 #   params:
@@ -103,11 +103,11 @@ footer:
 #   params:
 #     img: "/slack-logo.svg"
 #   weight: 30
-# - name: Github
-#   url: "https://github.com/carpentries"
-#   params:
-#     img: "/github-logo.svg"
-#   weight: 40
+- name: Github
+  url: "https://github.com/aicarpentry"
+  params:
+    img: "/github-logo.svg"
+  weight: 40
 # - name: Zenodo
 #   url: "https://zenodo.org/communities/carpentries/records"
 #   params:
