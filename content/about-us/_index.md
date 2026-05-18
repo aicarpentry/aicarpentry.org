@@ -1,9 +1,6 @@
 ---
 title: About us
 layout: single
-hideToc: true
-widgets:
-- newsletter
 ---
 
 AI Carpentry is developing workshops to teach foundational concepts and skills in machine learning, deep learning, and the use of artificial intelligence tools to support open, reproducible research. 
