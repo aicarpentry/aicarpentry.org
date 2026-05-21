@@ -2,6 +2,8 @@
 title: Get Involved in AI Carpentry
 ---
 
+As an offshoot of [The Carpentries](https://carpentries.org/), the AI Carpentry community connects educators and domain experts from around the world.
+
 * Want to connect with other educators who are teaching about/with genAI? 
 * Are you interested in contributing to the development of AI Carpentry workshops?
 * Want to teach or host an AI Carpentry workshop for your community?
