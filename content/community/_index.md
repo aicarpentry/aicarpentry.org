@@ -1,32 +1,25 @@
 ---
-title: AI Carpentry Community
-layout: single
+title: Get Involved in AI Carpentry
 ---
 
-As an offshoot of [The Carpentries](https://carpentries.org/), the AI Carpentry community connects educators and domain experts from around the world.
-Community calls are subject to [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/).
+* Want to connect with other educators who are teaching about/with genAI? 
+* Are you interested in contributing to the development of AI Carpentry workshops?
+* Want to teach or host an AI Carpentry workshop for your community?
+* Would you like to discuss other ways you can support the project?
 
-## Lesson Development Coworking
-Several members of the community are developing curriculum for [our workshops](../../lessons/).
-They meet weekly in an alternating schedule:
+**Join our regular community calls!**
+The community meets for [community discussions](./community-discussions/) about the interface between teaching and genAI, and for [lesson development coworking calls](./lesson-coworking/).
 
-* Every other Tuesday at 15:00 [UTC](https://www.timeanddate.com/worldclock/timezone/utc)
-* Every other Thursday at 17:30 [UTC](https://www.timeanddate.com/worldclock/timezone/utc)
+**Join the Slack channels and/or mailing lists** for our working groups by following the links below:
 
-Newcomers are welcome on these calls! Please [contact us](mailto:curriculum@carpentries.org) if you would like to join.
+* [Join the Teaching + GenAI discussions mailing list](https://carpentries.topicbox.com/groups/ai-carpentry-teaching)
+* Workshop: _Developing AI Models for Research_:
+    * [Join the mailing list](https://carpentries.topicbox.com/groups/ai-carpentry-dev-workshop)
+    * [Join The Carpentries Slack workspace](https://slack-invite.carpentries.org) then find us in the `#ai-carpentry-developer-workshop` channel
+* Workshops: _Introduction to GenAI for Novice Programmers_ and _Exploring GenAI for Software Development_:
+    * [Join the mailing list](https://carpentries.topicbox.com/groups/ai-carpentry-user-workshop)
+    * [Join The Carpentries Slack workspace](https://slack-invite.carpentries.org) then find us in the `#ai-carpentry-user-workshop` channel
 
+AI Carpentry is an open source project and we welcome new contributors! **Open an issue of a pull request** on one of the lesson repositories linked from our [lessons page](../../lessons/).
 
-## GenAI + Teaching Discussion Sessions
-Our regular Community of Practice calls bring together educators tackling the challenges associated with widespread generative AI use in teaching and training.
-With a focus on educating adults, in formal and informal settings, semester-long courses and short training sessions, community conversations give us an opportunity to share experiences of what we have tried, what is working and what is not. 
-Each month includes a featured presentation, reflective open discussion, and a chance for community members to share insights about the questions they still have and the resources/tools they have found helpful.
-
-Presentations are prepared in response to one or more of the guiding questions:
-
-* What are the primary challenges that you are currently encountering when teaching programming/data analysis skills, in relation to the use of generative AI?
-* What new approaches have you tried out, to respond to the growing use of genAI in your classroom?
-* What worked and what did not? What would you try differently next time?
-* What unanswered questions do you have about computing education in the context of genAI?
-
-Find more information about the GenAI + Teaching Discussions and register to join on [The Carpentries Community Sessions Pretix site](https://pretix.carpentries.org/community-events/community-sessions/).
-[Join the mailing list](https://carpentries.topicbox.com/groups/ai-carpentry-teaching) for announcements and discussion related to this series.
+[Contact us](mailto:curriculum@carpentries.org) to discuss anything else related to the project.

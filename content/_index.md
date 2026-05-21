@@ -5,7 +5,7 @@ blocks:
 - layout: select-cta
   options:
     - copy: Get involved
-      url: /community/get-involved/
+      url: /community/
     - copy: Join a community call
       url: /community/
     - copy: See upcoming workshops
