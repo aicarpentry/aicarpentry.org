@@ -32,12 +32,17 @@ main:
   weight: 20
 - identifier: get-involved
   name: Get Involved
-  pageRef: "/community/get-involved/"
+  pageRef: "/community/"
   parent: community
   weight: 20
 - identifier: community-calls
   name: Community Calls
-  pageRef: "/community/"
+  pageRef: "/community/discussions/"
+  parent: community
+  weight: 20
+- identifier: lesson-coworking
+  name: Lesson Development Coworking
+  pageRef: "/community/lesson-coworking/"
   parent: community
   weight: 20
 # Learn Menu
@@ -72,7 +77,7 @@ footer:
   weight: 10
 - identifier: get-involved
   name: Get involved
-  url: "/about-us/get-involved/"
+  url: "/community/"
   parent: about-us-footer
   weight: 40
 # Footer menu: Menu 2 (Workshops)
