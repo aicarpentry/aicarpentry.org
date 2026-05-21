@@ -1,5 +1,6 @@
 ---
 title: Get Involved in AI Carpentry
+layout: single
 ---
 
 As an offshoot of [The Carpentries](https://carpentries.org/), the AI Carpentry community connects educators and domain experts from around the world.
