@@ -11,7 +11,7 @@ As an offshoot of [The Carpentries](https://carpentries.org/), the AI Carpentry 
 * Would you like to discuss other ways you can support the project?
 
 **Join our regular community calls!**
-The community meets for [community discussions](./community-discussions/) about the interface between teaching and genAI, and for [lesson development coworking calls](./lesson-coworking/).
+The community meets for [community discussions](./discussions/) about the interface between teaching and genAI, and for [lesson development coworking calls](./lesson-coworking/).
 
 **Join the Slack channels and/or mailing lists** for our working groups by following the links below:
 
