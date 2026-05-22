@@ -17,3 +17,4 @@ Find more information about the GenAI + Teaching Discussions and register to joi
 [Join the mailing list](https://carpentries.topicbox.com/groups/ai-carpentry-teaching) for announcements and discussion related to this series.
 
 Community calls are subject to [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/).
+This series was motivated and inspired by working group discussions at the March 2026 workshop, [_Research Software Engineering in the Age of Generative AI: Building a Community Vision_](https://www.researchsoft.org/events/rse-ai-workshop/), co-led by Schmidt Sciences and the Research Software Alliance (ReSA), with local support provided by the Software Sustainability Institute (SSI).
