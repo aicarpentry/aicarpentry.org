@@ -1,5 +1,5 @@
 # hugo.yaml
-baseURL: https://ai-carpentry.org/
+baseURL: https://aicarpentry.org/
 languageCode: en-us
 title: AI Carpentry
 # Imports the theme into the projects
