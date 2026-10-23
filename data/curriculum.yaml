@@ -27,25 +27,25 @@ curricula:
 - lessonname: Learning Programming with GenAI Workshop Overview
   site: https://carpentries-incubator.github.io/ai-carpentry-user-workshop-novice/
   repo: https://github.com/carpentries-incubator/ai-carpentry-user-workshop-novice/
-  status: initial design phase
+  status: alpha
   category: user-novice
 
 - lessonname: Exploring Large Language Models 
   site: https://carpentries-incubator.github.io/llms-intro-novice/
   repo: https://github.com/carpentries-incubator/llms-intro-novice/
-  status: initial design phase
+  status: alpha
   category: user-novice
 
 - lessonname: Considering Implications of GenAI Use
   site: https://carpentries-incubator.github.io/genai-implications-novice/
   repo: https://github.com/carpentries-incubator/genai-implications-novice/
-  status: initial design phase
+  status: alpha
   category: user-novice
 
 - lessonname: Learning Programming with GenAI
   site: https://carpentries-incubator.github.io/coding-with-llms-novice/
   repo: https://github.com/carpentries-incubator/coding-with-llms-novice/
-  status: initial design phase
+  status: alpha
   category: user-novice
 
 - lessonname: Building and Validating Research Code with GenAI Workshop Overview
