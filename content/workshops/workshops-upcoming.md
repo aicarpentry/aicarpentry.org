@@ -3,7 +3,6 @@ title: Upcoming workshops
 ---
 
 <div class="filtered">
-    
     <div class="p-8 mb-5 border" data-country="Germany" data-curriculum="Learning Programming with GenAI" data-meeting="In Person" data-program="AI Carpentry">
         <div class="flex mb-4 -mx-2">
             <div class="flex items-center mx-2">
@@ -31,7 +30,6 @@ title: Upcoming workshops
             </div>
             <div class="text-sm font-semibold text-gray-mid">26+27 November 2026</div>
     </div>
-   
     <div class="p-8 mb-5 border" data-country="Germany" data-curriculum="Learning Programming with GenAI" data-meeting="In Person" data-program="AI Carpentry">
         <div class="flex mb-4 -mx-2">
             <div class="flex items-center mx-2">
@@ -59,8 +57,7 @@ title: Upcoming workshops
             </div>
             <div class="text-sm font-semibold text-gray-mid">11+12 January 2027</div>
     </div>
-
-<div class="p-8 mb-5 border" data-country="United Kingdom" data-curriculum="Learning Programming with GenAI" data-meeting="In Person" data-program="AI Carpentry">
+    <div class="p-8 mb-5 border" data-country="United Kingdom" data-curriculum="Learning Programming with GenAI" data-meeting="In Person" data-program="AI Carpentry">
         <div class="flex mb-4 -mx-2">
             <div class="flex items-center mx-2">
                 <img class="mx-1" src="/ai.svg" alt="">
@@ -87,7 +84,6 @@ title: Upcoming workshops
             </div>
             <div class="text-sm font-semibold text-gray-mid">14+15 January 2027</div>
     </div>
-
     <div class="p-8 mb-5 border" data-country="Germany" data-curriculum="Learning Programming with GenAI" data-meeting="In Person" data-program="AI Carpentry">
         <div class="flex mb-4 -mx-2">
             <div class="flex items-center mx-2">
@@ -115,5 +111,4 @@ title: Upcoming workshops
             </div>
             <div class="text-sm font-semibold text-gray-mid">18+19 January 2027</div>
     </div>
-
 </div>
